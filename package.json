@@ -1,0 +1,22 @@
+{
+  "name": "backend-with-js",
+  "version": "1.0.0",
+  "description": "learning backend with javaScropt",
+  "keywords": [
+    "node",
+    "js",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Razi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
+  }
+}
